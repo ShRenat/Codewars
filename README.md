@@ -1,3 +1,6 @@
+![Build Status](https://www.travis-ci.com/ShRenat/Codewars.svg?branch=main)
+
+
 # Codewars - Python Solutions
 
 My solutions for Codewars problems are written using `Python 3.8.0` and unittests are run using pytest.
