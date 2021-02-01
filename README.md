@@ -1,11 +1,11 @@
 [![Build Status](https://travis-ci.com/ShRenat/Codewars.svg?branch=main)](https://travis-ci.com/ShRenat/Codewars)
-
+[![Python Version](https://img.shields.io/badge/python-3.8-blue.svg)]()
 
 # Codewars - Python Solutions
 
-My solutions for Codewars problems are written using `Python 3.8.0` and unittests are run using pytest.
+My solutions for Codewars problems are written using `Python 3.8` and unittests are run using pytest.
 
-* Codewars supports `Python 3.8.0`.
+* Codewars supports `Python 3.8`.
 
 ### [Profile](https://www.codewars.com/users/ShRenat)
 ![Codewars Rank](https://www.codewars.com/users/ShRenat/badges/large)
