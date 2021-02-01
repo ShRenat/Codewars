@@ -1,6 +1,6 @@
 # Codewars - Python Solutions
 
-My solutions for Codewars problems are written using Python 3.8 and unittests are run using pytest.
+My solutions for Codewars problems are written using `Python 3.8` and unittests are run using pytest.
 
 * Codewars supports `Python 3.8`.
 
