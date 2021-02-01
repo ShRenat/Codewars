@@ -1,4 +1,4 @@
-![Build Status](https://www.travis-ci.com/ShRenat/Codewars.svg?branch=main)
+[![Build Status](https://travis-ci.com/ShRenat/Codewars.svg?branch=main)](https://travis-ci.com/ShRenat/Codewars)
 
 
 # Codewars - Python Solutions
