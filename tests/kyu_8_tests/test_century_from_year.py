@@ -8,3 +8,6 @@ class ComputationTestCase(unittest.TestCase):
     
     def test_equals_2(self):
         self.assertEqual(century(1900), 19, 'Testing for year 1900')
+    
+    def test_equals_3(self):
+        self.assertEqual(century(1601), 17, 'Testing for year 1601')
