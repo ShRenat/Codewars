@@ -3,9 +3,9 @@
 
 # Codewars - Python Solutions
 
-My solutions for Codewars problems are written using `Python 3.8` and unittests are run using pytest.
+My solutions for Codewars problems are written using `Python 3.8.7` and unittests are run using pytest.
 
-* Codewars supports `Python 3.8`.
+* Codewars supports `Python 3.8.7`.
 
 ### [Profile](https://www.codewars.com/users/ShRenat)
 ![Codewars Rank](https://www.codewars.com/users/ShRenat/badges/large)
