@@ -9,3 +9,6 @@ class SummationTestCase(unittest.TestCase):
 
     def test_equals_2(self):
         self.assertEqual(summation(8), 36)
+    
+    def test_equals_3(self):
+        self.assertEqual(summation(22), 253)
