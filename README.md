@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.com/ShRenat/Codewars.svg?branch=main)](https://travis-ci.com/ShRenat/Codewars)
-[![Python Version](https://img.shields.io/badge/python-3.8-blue.svg)]()
+[![Python Version](https://img.shields.io/badge/python-3.8.7-blue.svg)]()
 
 # Codewars - Python Solutions
 
