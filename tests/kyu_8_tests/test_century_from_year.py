@@ -33,11 +33,11 @@ class TestComputationCentury(unittest.TestCase):
     def test_century_1111(self):
         self.assertEqual(century(1111), 12, 'Testing for year 1111')
     
-    #def test_century_minus_1(self):
-    #    self.assertEqual(century(-1), 0, 'Testing for year -1')
+    def test_century_minus_1(self):
+        self.assertEqual(century(-1), 0, 'Testing for year -1')
     
-    #def test_century_0(self):
-    #    self.assertEqual(century(0), 0, 'Testing for year 0')
+    def test_century_0(self):
+        self.assertEqual(century(0), 0, 'Testing for year 0')
     
     def test_century_1200(self):
         self.assertEqual(century(1200), 12, 'Testing for year 1200')
@@ -98,3 +98,9 @@ class TestComputationCentury(unittest.TestCase):
     
     def test_century_1000(self):
         self.assertEqual(century(1000), 10, 'Testing for year 1000')
+    
+    def test_century_912(self):
+        self.assertEqual(century(912), 10, 'Testing for year 912')
+    
+    def test_century_2123(self):
+        self.assertEqual(century(2123), 22, 'Testing for year 2123')
